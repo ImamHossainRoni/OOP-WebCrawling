@@ -1,3 +1,5 @@
 import requests
-url = "https://docs.djangoproject.com/en/2.0/intro/tutorial01/"
+url = "https://dimikcomputing.com/"
 response =requests.get(url)
+with open("dimik.index.html","w") as f:
+    f.write(response.text)
