@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bbd51a0-f42c-4193-aa6e-a6a15e1570e8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/webPageDownload.py" beforeDir="false" afterPath="$PROJECT_DIR$/webPageDownload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oopPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/OOP_WebCrawling$oopPython.coverage" NAME="oopPython Coverage Results" MODIFIED="1526847026760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP_WebCrawling$openWebPage.coverage" NAME="openWebPage Coverage Results" MODIFIED="1526846207845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OOP_WebCrawling$webPageDownload.coverage" NAME="webPageDownload Coverage Results" MODIFIED="1526846715699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -21,16 +23,25 @@
         <entry file="file://$PROJECT_DIR$/openWebPage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+              <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webPageDownload.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="oopPython.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oopPython.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webPageDownload.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webPageDownload.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -52,6 +63,7 @@
       <list>
         <option value="$PROJECT_DIR$/openWebPage.py" />
         <option value="$PROJECT_DIR$/webPageDownload.py" />
+        <option value="$PROJECT_DIR$/oopPython.py" />
       </list>
     </option>
   </component>
@@ -107,7 +119,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.webPageDownload">
+  <component name="RunManager" selected="Python.oopPython">
+    <configuration name="oopPython" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OOP&amp;WebCrawling" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oopPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="openWebPage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OOP&amp;WebCrawling" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,9 +180,11 @@
     <list>
       <item itemvalue="Python.openWebPage" />
       <item itemvalue="Python.webPageDownload" />
+      <item itemvalue="Python.oopPython" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oopPython" />
         <item itemvalue="Python.webPageDownload" />
         <item itemvalue="Python.openWebPage" />
       </list>
@@ -177,10 +210,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32761312" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32761312" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32917318" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32917318" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2219697" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
@@ -228,14 +261,21 @@
     <entry file="file://$PROJECT_DIR$/openWebPage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webPageDownload.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oopPython.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
         </state>
       </provider>
     </entry>
