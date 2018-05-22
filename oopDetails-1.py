@@ -8,7 +8,7 @@ class Fighter:
         other_guy.health = other_guy.health - self.damage
 
 roni = Fighter("Roni")
-you = Fighter("Moon")
+you = Fighter("Imam Hossain")
 print(roni.name)
 print(you.name)
 you.attact(roni)
